@@ -1,0 +1,37 @@
+Metadata-Version: 2.1
+Name: pybasics
+Version: 0.1
+Summary: Basic utils in Python.
+Home-page: https://github.com/synthaze/pybasics
+Author: Florian Malard, PhD
+Author-email: florian.malard@gmail.com
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/synthaze/pybasics/issues
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# pybasics - 0.1
+
+Basic utils in Python.
+
+## Install
+
+```python
+pip3 install pybasics
+```
+
+## Examples
+
+```python
+from pybasics.main import read_file
+from pybasics.main import read_pickle
+from pybasics.main import write_file
+from pybasics.main import write_pickle
+```
+
+

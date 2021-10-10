@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/pybasics/__init__.py
+src/pybasics/globals.py
+src/pybasics/main.py
+src/pybasics.egg-info/PKG-INFO
+src/pybasics.egg-info/SOURCES.txt
+src/pybasics.egg-info/dependency_links.txt
+src/pybasics.egg-info/top_level.txt
