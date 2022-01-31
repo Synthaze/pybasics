@@ -1,4 +1,4 @@
-# pybasics - 0.2
+# pybasics - 0.2b
 
 Basic utils in Python.
 
