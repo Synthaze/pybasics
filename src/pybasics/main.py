@@ -71,7 +71,8 @@ def write_pickle(f, c):
 
 
 def write_json(f, c):
-
+    """.
+    """
     with open(f, 'w') as msg:
         json.dump(c, msg)
 
@@ -79,7 +80,8 @@ def write_json(f, c):
 
 
 def read_json(f):
-
+    """.
+    """
     with open(f) as msg:
         data = json.load(msg)
 
